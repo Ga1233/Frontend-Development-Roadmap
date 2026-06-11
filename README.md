@@ -9,6 +9,7 @@ A growing collection of structured notes on web development fundamentals — wri
 | File | Topics Covered |
 |------|----------------|
 | `Part1_Semantic_HTML5_Accessibility.pdf` | Browser Architecture, DNS, TCP/IP, HTTP/HTTPS, Semantic HTML5, Accessibility (a11y) |
+| `Part2_Advanced_CSS3_Responsive_Architecture.pdf` | Box Model, Specificity, Inheritance, Flexbox, CSS Grid, Responsive Design, CSS Modules, Tailwind CSS, CSS Variables, Positioning, Stacking Context |
 | *(more coming soon)* | |
 
 ---
@@ -20,7 +21,7 @@ Topics will expand over time. Planned and published areas include:
 - **How the Web Works** — Browser architecture, DNS resolution, TCP/IP handshake, HTTP vs HTTPS
 - **HTML5** — Semantic tags, forms, best practices
 - **Accessibility (a11y)** — ARIA, alt text, heading structure, W3C validation
-- **CSS** — Selectors, box model, layouts, responsive design *(coming soon)*
+- **CSS** — Box model, specificity, Flexbox, Grid, responsive design, CSS Modules, Tailwind, CSS variables
 - **JavaScript** — Core concepts, DOM, events, async *(coming soon)*
 - **And more...**
 
