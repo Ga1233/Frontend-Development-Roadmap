@@ -11,6 +11,7 @@ A growing collection of structured notes on web development fundamentals — wri
 | `Part1_Semantic_HTML5_Accessibility.pdf` | Browser Architecture, DNS, TCP/IP, HTTP/HTTPS, Semantic HTML5, Accessibility (a11y) |
 | `Part2_Advanced_CSS3_Responsive_Architecture.pdf` | Advanced CSS3, Responsive Design, Layouts, Architecture |
 | `Part3_JavaScript_Fundamentals_The_Engine.pdf` | JavaScript Fundamentals, The JS Engine, Core Concepts |
+| `Part4_DOM_Manipulation_Browser_Events.pdf` | The DOM Tree, Traversing Nodes, Creating/Deleting Elements, Browser Events |
 | *(more coming soon)* | |
 
 ---
@@ -24,6 +25,7 @@ Topics will expand over time. Planned and published areas include:
 - **Accessibility (a11y)** — ARIA, alt text, heading structure, W3C validation
 - **CSS** — Advanced CSS3, selectors, box model, layouts, responsive design
 - **JavaScript** — Fundamentals, the JS engine, DOM, events, async
+- **DOM Manipulation & Browser Events** — Traversing nodes, creating/deleting elements, event handling
 - **And more...**
 
 ---
